@@ -1,0 +1,3 @@
+[submodule "deps/servant-snap"]
+	path = deps/servant-snap
+	url = git@github.com:haskell-servant/servant-snap
